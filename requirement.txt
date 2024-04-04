@@ -1,0 +1,9 @@
+# use pip install packages
+
+Django==5.0.4
+
+urllib3==1.26.18
+
+uri-template==1.3.0
+
+qrcode==7.4.2
